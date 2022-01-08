@@ -1,0 +1,7 @@
+C:\Users\Facundo\Desktop\Programas par amostrar\segundo parcial\segundo parcial\bin\Debug\segundo parcial.exe.config
+C:\Users\Facundo\Desktop\Programas par amostrar\segundo parcial\segundo parcial\bin\Debug\segundo parcial.exe
+C:\Users\Facundo\Desktop\Programas par amostrar\segundo parcial\segundo parcial\bin\Debug\segundo parcial.pdb
+C:\Users\Facundo\Desktop\Programas par amostrar\segundo parcial\segundo parcial\obj\Debug\AdmRestaurante.csproj.AssemblyReference.cache
+C:\Users\Facundo\Desktop\Programas par amostrar\segundo parcial\segundo parcial\obj\Debug\AdmRestaurante.csproj.CoreCompileInputs.cache
+C:\Users\Facundo\Desktop\Programas par amostrar\segundo parcial\segundo parcial\obj\Debug\segundo parcial.exe
+C:\Users\Facundo\Desktop\Programas par amostrar\segundo parcial\segundo parcial\obj\Debug\segundo parcial.pdb
